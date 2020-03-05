@@ -6,6 +6,7 @@ we can already check these repos :
 
 - <https://github.com/sbilly/awesome-security>
 - <https://github.com/apsdehal/awesome-ctf>
+- <https://github.com/ctfs/resources>
 
 ---
 
